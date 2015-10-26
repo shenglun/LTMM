@@ -1,0 +1,15 @@
+#content {
+    height: 80%;
+    width :100%;
+	text-align:center;
+	line-height :400px;
+	font-size:72px;
+   }
+
+body {
+    width: 40%;
+    margin: 0 auto;
+}
+input {
+	margin-left:33%;
+}
